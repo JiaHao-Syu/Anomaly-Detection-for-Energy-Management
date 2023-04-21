@@ -1,5 +1,9 @@
 # Anomaly-Detection-for-Energy-Management
 
+#### Journal: Computers & Electrical Engineering
+#### Paper: Energy Grid Management System with Anomaly Detection and Q-Learning Decision Modules
+
+
 ### Training
 Run:
 * python3 Malicious/1-Training_Data.py
